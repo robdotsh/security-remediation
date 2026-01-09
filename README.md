@@ -13,11 +13,11 @@ Aligned to:
 Compromised credentials led to unauthorized access and PII exposure in a hybrid environment.
 
 ## Repository Structure
-assessment/     Risk and asset assessment
-remediation/    Technical hardening guides
-governance/     Policies and compliance mapping
-scripts/        Automation and audit scripts
-roadmap/        90-day remediation roadmap
+-  assessment/     Risk and asset assessment
+- remediation/    Technical hardening guides
+- governance/     Policies and compliance mapping
+- scripts/        Automation and audit scripts
+- roadmap/        90-day remediation roadmap
 
 ## Outcome
 Breach contained, systems hardened, governance and monitoring established.
